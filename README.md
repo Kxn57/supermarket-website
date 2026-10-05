@@ -1,6 +1,6 @@
 # Supermarket Website
 A web-based supermarket website developed as part of my Diploma in Information Technology coursework.
-Download the assignment file run in VSstudio and the db file and uses XAMPP to synchronise the database
+Download the assignment file run in VScode and the db file and uses XAMPP to synchronise the database
 
 ## Features
 * Product browsing
